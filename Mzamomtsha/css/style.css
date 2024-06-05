@@ -1,9 +1,13 @@
-/********** Template CSS **********/
+*{
+    transition: margin-right 2s, color 1s;
+}
 :root {
     --primary: #06BBCC;
     --light: #F0FBFC;
     --dark: #181d38;
 }
+
+
 
 .fw-medium {
     font-weight: 600 !important;
