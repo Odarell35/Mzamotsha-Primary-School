@@ -233,7 +233,41 @@
     width:500px;
     align:center;
 }
+/* About us start */
+.History{
+    display:flex;
+    flex-wrap: wrap;
+    width: 1000px;
+    margin: 20px auto;
 
+}
+
+.left-info{
+    width:500px;
+}
+
+.right-info{
+    width: 500px;
+}
+
+.right-info i{
+    font-size: 65px;
+    color: blue;
+    font-weight: 900;
+    margin:50px 20px;
+    display: inline-block;
+    animation: rotate-right 2s linear infinite;
+}
+
+.right-info i:hover{
+    color:black;
+    transform: rotate(270deg);
+}
+
+.History h6{
+    font-weight: 900;
+}
+/* About End */
 /*** Footer ***/
 .footer .btn.btn-social {
     margin-right: 5px;
