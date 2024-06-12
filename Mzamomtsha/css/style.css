@@ -337,3 +337,10 @@
     padding-right: 0;
     border-right: none;
 }
+
+.error {
+    color: red;
+    font-size: 0.9em;
+    display: block;
+    margin-top: 5px;
+}
