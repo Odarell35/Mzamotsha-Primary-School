@@ -110,6 +110,9 @@
     .navbar-light .navbar-nav {
         border-top: 1px solid #EEEEEE;
     }
+    .History{
+        flex-direction: column;
+    }
 }
 
 .navbar-light .navbar-brand,
@@ -214,10 +217,14 @@
 }
 
 /* Donate Start  */
+#donate{
+    background-color: white;
+}
 .WhyDonate{
-    width: 800px;
-    margin:50 auto  20px auto;
-    text-align: center;
+   width: 700px;
+   text-align: center;
+   margin: 20px auto;
+
 }
 
 .WhyDonate li, .donationInfo li{
