@@ -1,6 +1,4 @@
-*{
-    transition: margin-right 2s, color 1s;
-}
+
 :root {
     --primary: #06BBCC;
     --light: #F0FBFC;
@@ -112,7 +110,23 @@
     }
     .History{
         flex-direction: column;
+        width: 600px;
+        margin: 10px auto;
+
     }
+    .left-info, .right-info{
+        width:325px;
+        margin: 10px;
+    }
+    .WhyDonate{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        width: 60px;
+        margin: 20px 10px;
+        background-color: #06BBCC;
+     }
 }
 
 .navbar-light .navbar-brand,
@@ -152,6 +166,10 @@
         transition: .5s;
         opacity: 1;
     }
+
+    .WhyDonate{
+        width: 250px;
+     }
 }
 
 
@@ -217,14 +235,16 @@
 }
 
 /* Donate Start  */
+
+
+
 #donate{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 }
 .WhyDonate{
    width: 700px;
    text-align: center;
    margin: 20px auto;
-
 }
 
 .WhyDonate li, .donationInfo li{
@@ -244,21 +264,16 @@
     width:500px;
     align:center;
 }
+
 /* About us start */
 .History{
-    display:flex;
+    display: flex;
     flex-wrap: wrap;
+    margin: 0 auto;
     width: 1000px;
-    margin: 20px auto;
-
 }
-
-.left-info{
+.left-info, .right-info{
     width:500px;
-}
-
-.right-info{
-    width: 500px;
 }
 
 .right-info i{
@@ -278,6 +293,7 @@
 .History h6{
     font-weight: 900;
 }
+
 /* About End */
 /*** Footer ***/
 .footer .btn.btn-social {
