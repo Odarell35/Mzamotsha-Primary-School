@@ -21,7 +21,11 @@ Mzamotsha Primary School is dedicated to fostering a nurturing and inclusive lea
 ![Screenshot (12)](https://github.com/Odarell35/Mzamotsha-Primary-School/assets/142394683/6e6008f4-4598-4bf9-88cd-9b8af966d303)
 
 # Authors
+
 _ Xolani Sithole
+
 _ Lerato Mawasha
+
 _ Waseem Ahmad Ebrahim
+
 _ Granny Mathonsi
