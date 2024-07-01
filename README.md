@@ -16,4 +16,6 @@ Mzamotsha Primary School is dedicated to fostering a nurturing and inclusive lea
 
 # How to access the website
 
+# Screenshot
 
+![Screenshot (12)](https://github.com/Odarell35/Mzamotsha-Primary-School/assets/142394683/0d7a839c-b704-412d-9f49-381aea5897a6)
