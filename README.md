@@ -22,7 +22,7 @@ Mzamotsha Primary School is dedicated to fostering a nurturing and inclusive lea
 
 # Authors
 
- - ** Xolani Sithole**
+ - **Xolani Sithole**
  - **Lerato Mawasha**
  - **Waseem Ahmad Ebrahim**
  - **Granny Tshuxeko Mathonsi**
