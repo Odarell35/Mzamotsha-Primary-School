@@ -16,4 +16,4 @@ Mzamotsha Primary School is dedicated to fostering a nurturing and inclusive lea
 
 # How to access the website
 
-# Screenshot
+
