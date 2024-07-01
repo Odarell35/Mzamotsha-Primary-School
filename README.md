@@ -13,3 +13,7 @@ Mzamotsha Primary School is dedicated to fostering a nurturing and inclusive lea
 - **Donation page**: Donation information.
 - **Contact Us**: School contact information, google map for direction and online contact form.
 - **Responsive Design:** The website is accessible on both desktop and mobile devices
+
+# How to access the website
+
+# Screenshot
